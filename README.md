@@ -1,6 +1,4 @@
-### Hi there 👋  
 
- Hi all, my name is Konstantin I am fond of frontend development, I am currently actively looking for a job
  ***
  ![codewars](https://www.codewars.com/users/Shuvalovrus/badges/small)
  
