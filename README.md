@@ -1,3 +1,5 @@
+<p align="center">
+  <img src="https://github.com/Shuvalovrus/Shuvalovrus/blob/main/Shuvalovrus.png" width="100%"/></p>
 <h1 align="center">Hi 👋, I'm Konstantin</h1>
 <h3 align="center">Frontend developer from Russia</h3>
 
