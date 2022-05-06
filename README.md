@@ -13,7 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  Telegram: @knstnyin
+  Telegram: @knstnyin </br>
+  Mail: shuvalov.2021@list.ru
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
