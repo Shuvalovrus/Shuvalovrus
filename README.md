@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Shuvalovrus/pet_project](https://github.com/Shuvalovrus/pet_project)
 
-- 📫 How to reach me **shuvalov,2021@list.ru**
+- 📫 How to reach me **shuvalov.2021@list.ru**
 
 - 📄 Know about my experiences [https://samara.hh.ru/resume/5bceb9c9ff098c189e0039ed1f48476d713571](https://samara.hh.ru/resume/5bceb9c9ff098c189e0039ed1f48476d713571)
 
