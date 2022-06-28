@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shuvalovrus&label=Profile%20views&color=0e75b6&style=flat" alt="shuvalovrus" /> </p>
 
-- 🌱 I’m currently learning **React, Docker, PHP,**
+- 🌱 I’m currently learning **React, Docker, NodeJs,**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Shuvalovrus/pet_project](https://github.com/Shuvalovrus/pet_project)
 
