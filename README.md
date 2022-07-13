@@ -6,7 +6,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shuvalovrus&label=Profile%20views&color=0e75b6&style=flat" alt="shuvalovrus" /> </p> 
 <p align="left"> <img src="https://www.codewars.com/users/Shuvalovrus/badges/small" alt="Codewars" /> </p>
 <hr>
-- 🌱 I’m currently learning **React, Docker, NodeJs,**
+
+- 🌱 I’m currently learning **React, Docker, NodeJs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Shuvalovrus/pet_project](https://github.com/Shuvalovrus/pet_project)
 
