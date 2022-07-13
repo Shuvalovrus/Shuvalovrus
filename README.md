@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://github.com/Shuvalovrus/Shuvalovrus/blob/main/Shuvalovrus.png" width="100%"/></p>
 <h1 align="center">Hi 👋, I'm Konstantin</h1>
-<h3 align="center">Frontend developer from Russia</h3>    
+<h3 align="center">Frontend developer</h3>    
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shuvalovrus&label=Profile%20views&color=0e75b6&style=flat" alt="shuvalovrus" /> </p> 
 <p align="left"> <img src="https://www.codewars.com/users/Shuvalovrus/badges/small" alt="Codewars" /> </p>
